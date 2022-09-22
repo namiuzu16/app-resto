@@ -1,0 +1,25 @@
+.btn{
+    text-decoration: none;
+    padding: 5px;
+    background-color: yellow;
+    color: black;
+    border: 6px;
+}
+
+#kotak{
+    margin-top: 50px;
+    margin-left: 30px;
+    width: 100px;
+    height: 50px;
+    border:1px solid #000;
+}
+
+#tulul{
+    background-color: white;
+    padding: 12px;
+    border: 10px dashed #b30000;
+    width: 300px;
+    height: 100Ppx;
+    margin-top: 180px;
+    margin-left: 80px;
+}
